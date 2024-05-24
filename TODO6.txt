@@ -1,0 +1,21 @@
+JNI trace, https://github.com/chame1eon/jnitrace
+
+1. Apps suchen wo ich weiss das Libraries vorkommen (OpenSource, fertige apks)
+2. Auf maven central nach libraries suchen, alle vorhandenen Versionen im eigenen App reinladen -> Groundtruth
+	-> Dependency hinzufügen, im Code einmal aufrufen 
+
+3. Bilder vergleichen von 1vs2
+
+
+
+LibVLC 62MB gross im Memory
+
+
+------------------
+
+Sicherstellen, dass Library korrekt geladen. 
+
+
+Wo libraries geladen werden
+C:\Users\flori\AndroidStudioProjects\newtry\app\src\main\jniLibs\x86_64
+

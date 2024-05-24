@@ -1,0 +1,22 @@
+- Welche Daten kann ich generieren
+Lesen
+Rumspielen, was sind Möglichkeiten
+
+
+
+-> Welche files werden geladen
+
+Frida, einzelne Apps hooken, vertraut werden
+
+
+
+- https://github.com/iddoeldor/frida-snippets?tab=readme-ov-file
+	hook JNI by address
+	enumerate loaded classes
+	trace classes
+	hook constructor
+		
+
+Gesammter Memory laden, 
+
+TLSH für Files

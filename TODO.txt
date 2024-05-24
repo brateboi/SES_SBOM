@@ -1,0 +1,23 @@
+TODO
+
+- Code darstellungen wie 
+	Code property graphs
+	abstract syntax tree
+	
+Lib Instance Construction:
+	wie
+	ground truth building
+
+- android debug bridge
+- adb logcat		
+- Frida 	----> Connect https://frida.re/docs/android/ device, trace chrome app, not managed
+
+- jadx		
+- jadx gui
+
+
+- allgemein: java fingerprinting, exception fingerprinting, 
+
+-----------------
+Papers konzentriert lesen
+-> No code features as Control-flow, data-flow features are volatile and change between compilations and architectur

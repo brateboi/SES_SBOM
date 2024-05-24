@@ -1,0 +1,29 @@
+Ganzes Module hexdumpen mit baseaddress + size
+-> analysieren -> parsen + filter
+
+Hexdump zwischen SESAPP/DuckDuckGo des selben Modules vergleichen -> Müsste gleich sein, gleicher Fingerprint
+
+
+
+----------------
+In Hexdump version suchen, 
+
+
+---------------
+DexClassLoader hooken, Library load erkennen
+
+-> Hook setzen bevor attaching to App
+
+
+&&&
+https://stackoverflow.com/questions/45314478/how-to-load-native-library-into-native-android-code-androidstudio
+
+system.loadLibrary hook
+
+-------------
+https://scholar.google.com.pk/citations?user=BokxWTcAAAAJ&hl=en
+
+Catch them alive: Malware detection
+-------------
+
+Fingerprint konkret was`? ComputerVision, tlsh, irgendwelche similarity scores

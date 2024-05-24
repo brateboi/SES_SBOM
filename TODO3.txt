@@ -1,0 +1,35 @@
+- Hexdump von einer Klasse, die vorherrausgefunden mit enumerate class
+
+- rausfinden der addresse der geladenen Klasse
+
+-> 
+
+Frida: STackdump, Heapdump
+
+Wiederholen, Textmatching, Diff zwischen hexnumbers
+
+
+
+---------------------
+Logcat,
+App nutzen, Logs in file schreiben, -> Logs selber, e.g. bumptech
+
+
+-------------------
+Hook java.io.file, e.g. hook fileWrite, fileRead
+-> console.log arguments,
+
+
+--------------
+Android test app, eigene App mit eigener Library
+
+---------------------
+Frida: Addresse einer geladenen Klasse rausfinden
+
+
+
+
+----
+Learnings:
+->Grosse Social Apps überhaupt schwierig zu öffnen im Emulator, stürzt automatisch ab -> Die wollen nicht, dass man da rumschnüffelt
+ 

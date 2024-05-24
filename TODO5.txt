@@ -1,0 +1,32 @@
+https://pypi.org/project/PngBin/ bin2png
+
+zwei verschiedenen Orten library laden -> Bild vergleichen
+--> Bild ist identisch, probiert für libc.so
+
+
+Same lib -> Same similarity
+
+
+----------
+Eigene App mit verschiedenen Library Versionen laden und vergleichen ob Unterschied sichtbar
+
+SImilarity score for images
+
+---------------------------------------------> Kann nur ein OpenCV example laden, beim anderen heisst es "the specified gradle distribution doesn't exist". Weiteres Problem OpenCV ist zu gross im Memory
+
+
+
+
+
+-----------------
+DexClassLoader hooken, Library load erkennen
+
+-> Hook setzen bevor attaching to App
+
+
+&&&
+https://stackoverflow.com/questions/45314478/how-to-load-native-library-into-native-android-code-androidstudio
+
+system.loadLibrary hook
+
+->>>>>>>> Mit python file zuerst hooken, dann App starten, 
